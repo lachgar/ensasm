@@ -22,11 +22,6 @@ export default function Footer() {
           BP 575, Avenue Abdelkrim Khattabi, 40000, Gueliz - Marrakech
         </p>
         <p style={{ marginBottom: "0.25rem", lineHeight: 1.6 }}>(+212) 5 24 34 01 25</p>
-        <p style={{ marginBottom: "2rem", lineHeight: 1.6 }}>
-          <a href="mailto:contact-ens@uca.ac.ma" style={{ color: "var(--accent-cyan)", textDecoration: "none", fontWeight: 500 }}>
-            contact-ens@uca.ac.ma
-          </a>
-        </p>
         <p style={{ fontSize: "0.9rem", color: "var(--text-secondary)" }}>
           &copy; {new Date().getFullYear()} Securite des applications mobiles. Tous droits reserves.
         </p>
