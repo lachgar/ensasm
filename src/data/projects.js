@@ -103,7 +103,7 @@ export const projects = [
     id: 6,
     teamName: "Team 6",
     members: ["Mohamed Bril", "Youssef Charaf", "Mouad Charraj", "Ibtissam El Bekkali"],
-    youtubeLink: "https://www.youtube.com/watch?v=fKVrczlnqhc",
+    youtubeLink: "https://youtu.be/wfyONrTs5OE?si=WoFqKtTwO1s4lTSn",
     demoLink: "https://vulnlab-portfolio-mobile.vercel.app/",
     reportFile: "team6.pdf",
     title: "Vulnerable-by-Design Training App Generator",

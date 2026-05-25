@@ -6,14 +6,18 @@ export default function Header() {
   return (
     <header className="header">
       <div className="container header-container">
-        <div style={{ display: "flex", alignItems: "center", gap: "1rem" }}>
-          <img src="/logo.png" alt="Logo Ecole Nationale des Science Appliquees" style={{ height: "55px", objectFit: "contain" }} />
+        <div className="header-brand">
+          <img
+            src="/logo.png"
+            alt="Logo Ecole Nationale des Science Appliquees"
+            className="header-logo"
+          />
           <div className="header-content">
             <h2 className="title text-gradient" style={{ margin: 0 }}>
-              Securite des applications mobiles
+              Universite Cadi Ayyad
             </h2>
             <span className="subtitle" style={{ marginTop: "0.2rem" }}>
-              Ecole Nationale des Science Appliquees
+              Ecole Nationale des Sciences Appliquees
             </span>
           </div>
         </div>
