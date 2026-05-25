@@ -17,7 +17,7 @@ export default function Hero() {
               boxShadow: "0 0 20px rgba(217, 119, 6, 0.1)"
             }}
           >
-            Universite Cadi Ayyad
+            Mini projet securite des applications mobile Android iOS
           </span>
           <p style={{ color: "var(--text-secondary)", fontSize: "1rem", margin: 0, fontWeight: 500 }}>
             Ecole Nationale des Sciences Appliquees <span style={{ opacity: 0.5, margin: "0 0.75rem" }}>|</span> Pr. Mohamed LACHGAR
@@ -27,7 +27,7 @@ export default function Hero() {
           className="text-gradient"
           style={{ fontSize: "clamp(2.5rem, 5vw, 4.5rem)", marginBottom: "3rem", letterSpacing: "-0.02em", lineHeight: 1.2 }}
         >
-          Projets et demonstrations<br />des etudiants
+          Mini-projet securite des applications mobiles Android et iOS.
         </h1>
         <div style={{ display: "flex", gap: "1rem", justifyContent: "center" }}>
           <a href="#projects" className="btn btn-primary" style={{ fontSize: "1.1rem", padding: "0.8rem 2rem" }}>
