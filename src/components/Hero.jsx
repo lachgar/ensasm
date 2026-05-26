@@ -27,7 +27,7 @@ export default function Hero() {
           className="text-gradient"
           style={{ fontSize: "clamp(2.5rem, 5vw, 4.5rem)", marginBottom: "3rem", letterSpacing: "-0.02em", lineHeight: 1.2 }}
         >
-          Mini-projet sécurité des applications mobiles Android et iOS.
+          Projet sécurité des applications mobiles Android et iOS
         </h1>
         <div style={{ display: "flex", gap: "1rem", justifyContent: "center" }}>
           <a href="#projects" className="btn btn-primary" style={{ fontSize: "1.1rem", padding: "0.8rem 2rem" }}>

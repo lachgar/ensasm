@@ -179,7 +179,7 @@ export const projects = [
   buildTeam({
     id: 13,
     teamName: "Team 13",
-    members: ["ANAS AOURIK", "ZEINEDDINE", "LAHSEN AIT OIHMANE", "ABDELHAKIM AMHIRAQ"],
+    members: ["ANAS AOURIK", "SULTAN ZEINEDDINE", "LAHSEN AIT OIHMANE", "ABDELHAKIM AMHIRAQ"],
     youtubeLink: "https://youtu.be/3PD2LviaP1w",
     demoLink: "https://vaultdex-web.vercel.app/",
     reportFile: "team13.pdf",
