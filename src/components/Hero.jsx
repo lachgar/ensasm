@@ -17,7 +17,7 @@ export default function Hero() {
               boxShadow: "0 0 20px rgba(217, 119, 6, 0.1)"
             }}
           >
-            Mini projet sécurité des applications mobiles Android iOS
+            Module developpement et securites des applicationns mobile android et ios
           </span>
           <p style={{ color: "var(--text-secondary)", fontSize: "1rem", margin: 0, fontWeight: 500 }}>
             École Nationale des Sciences Appliquées <span style={{ opacity: 0.5, margin: "0 0.75rem" }}>|</span> Pr. Mohamed LACHGAR
