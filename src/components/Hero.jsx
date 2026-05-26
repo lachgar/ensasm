@@ -17,10 +17,14 @@ export default function Hero() {
               boxShadow: "0 0 20px rgba(217, 119, 6, 0.1)"
             }}
           >
-            Module développement et sécurités des applicationns mobile Android et iOS
+            Module développement et sécurité des applications mobiles Android et iOS
           </span>
           <p style={{ color: "var(--text-secondary)", fontSize: "1rem", margin: 0, fontWeight: 500 }}>
-            École Nationale des Sciences Appliquées <span style={{ opacity: 0.5, margin: "0 0.75rem" }}>|</span> Pr. Mohamed LACHGAR
+            École Nationale des Sciences Appliquées
+            <span style={{ opacity: 0.5, margin: "0 0.75rem" }}>|</span>
+            Génie Cyber-Défense et Systèmes de Télécommunications Embarqués — GCDSTE
+            <span style={{ opacity: 0.5, margin: "0 0.75rem" }}>|</span>
+            Pr. Mohamed LACHGAR
           </p>
         </div>
         <h1

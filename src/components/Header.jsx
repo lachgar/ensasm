@@ -14,10 +14,13 @@ export default function Header() {
           />
           <div className="header-content">
             <h2 className="title text-gradient" style={{ margin: 0 }}>
-              Universite Cadi Ayyad
+              Université Cadi Ayyad
             </h2>
             <span className="subtitle" style={{ marginTop: "0.2rem" }}>
               École Nationale des Sciences Appliquées
+            </span>
+            <span className="subtitle" style={{ marginTop: "0.15rem", opacity: 0.9 }}>
+              Génie Cyber-Défense et Systèmes de Télécommunications Embarqués — GCDSTE
             </span>
           </div>
         </div>
