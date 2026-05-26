@@ -70,7 +70,7 @@ export const projects = [
     id: 3,
     teamName: "Team 3",
     members: ["Mounir MERGHICH", "Malak BELKHO", "Hiba LAZZOUZI", "Yousra ZARRI"],
-    youtubeLink: null,
+    youtubeLink: "https://www.youtube.com/watch?v=LsRnU-lzt7c",
     demoLink: "https://classy-longma-65f973.netlify.app",
     reportFile: "team3.pdf",
     title: "MASVS/MASTG Audit Copilot",
