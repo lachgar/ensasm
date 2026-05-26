@@ -9,7 +9,7 @@ export default function Header() {
         <div className="header-brand">
           <img
             src="/logo.png"
-            alt="Logo Ecole Nationale des Science Appliquees"
+            alt="Logo École Nationale des Sciences Appliquées"
             className="header-logo"
           />
           <div className="header-content">
@@ -17,7 +17,7 @@ export default function Header() {
               Universite Cadi Ayyad
             </h2>
             <span className="subtitle" style={{ marginTop: "0.2rem" }}>
-              Ecole Nationale des Sciences Appliquees
+              École Nationale des Sciences Appliquées
             </span>
           </div>
         </div>

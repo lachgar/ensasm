@@ -17,10 +17,10 @@ export default function Hero() {
               boxShadow: "0 0 20px rgba(217, 119, 6, 0.1)"
             }}
           >
-            Mini projet securite des applications mobile Android iOS
+            Mini projet sécurité des applications mobiles Android iOS
           </span>
           <p style={{ color: "var(--text-secondary)", fontSize: "1rem", margin: 0, fontWeight: 500 }}>
-            Ecole Nationale des Sciences Appliquees <span style={{ opacity: 0.5, margin: "0 0.75rem" }}>|</span> Pr. Mohamed LACHGAR
+            École Nationale des Sciences Appliquées <span style={{ opacity: 0.5, margin: "0 0.75rem" }}>|</span> Pr. Mohamed LACHGAR
           </p>
         </div>
         <h1
@@ -37,7 +37,6 @@ export default function Hero() {
             Nous Contacter
           </a>
         </div>
-
       </div>
     </section>
   );

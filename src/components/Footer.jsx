@@ -16,7 +16,7 @@ export default function Footer() {
           Galerie - Securite des applications mobiles
         </h3>
         <p style={{ marginBottom: "0.25rem", lineHeight: 1.6 }}>
-          Ecole Nationale des Sciences Appliquees
+          École Nationale des Sciences Appliquées
         </p>
         <p style={{ marginBottom: "0.25rem", lineHeight: 1.6 }}>
           BP 575, Avenue Abdelkrim Khattabi, 40000, Gueliz - Marrakech
