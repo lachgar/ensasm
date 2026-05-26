@@ -52,7 +52,7 @@ export const projects = [
     demoLink: "https://website-radar.vercel.app/",
     reportFile: "team1.pdf",
     title: "Dependency Risk Radar",
-    description: "SBOM, vulnerabilities et licences pour analyser rapidement les dependances d'une application mobile.",
+    description: "SBOM, vulnérabilités et licences pour analyser rapidement les dépendances d'une application mobile.",
     tags: ["SBOM", "Vulnerabilities", "Licenses"]
   }),
   buildTeam({
@@ -63,7 +63,7 @@ export const projects = [
     demoLink: "https://threat-modeling-assistant-portfolio-sigma.vercel.app/",
     reportFile: "team2.pdf",
     title: "Threat Modeling Assistant",
-    description: "Assistant de modelisation de menace avec risk register pour structurer l'analyse de securite.",
+    description: "Assistant de modélisation de menace avec risk register pour structurer l'analyse de sécurité.",
     tags: ["Threat Modeling", "Risk Register", "Security"]
   }),
   buildTeam({
@@ -74,7 +74,7 @@ export const projects = [
     demoLink: "https://classy-longma-65f973.netlify.app",
     reportFile: "team3.pdf",
     title: "MASVS/MASTG Audit Copilot",
-    description: "Generation automatique de rapport d'audit mobile avec scoring inspire de MASVS et MASTG.",
+    description: "Génération automatique de rapport d'audit mobile avec scoring inspiré de MASVS et MASTG.",
     tags: ["MASVS", "MASTG", "Audit"]
   }),
   buildTeam({
@@ -85,7 +85,7 @@ export const projects = [
     demoLink: "https://mobile-project-landing-page.vercel.app/",
     reportFile: "team4.pdf",
     title: "Mobile DevSecOps Pipeline",
-    description: "Pipeline CI/CD securise avec triage assiste pour accelerer le traitement des alertes.",
+    description: "Pipeline CI/CD sécurisé avec triage assisté pour accélérer le traitement des alertes.",
     tags: ["CI/CD", "DevSecOps", "AI Triage"]
   }),
   buildTeam({
@@ -96,7 +96,7 @@ export const projects = [
     demoLink: "https://portfolio-anlayzer-sdk-app.vercel.app/",
     reportFile: "team5.pdf",
     title: "Privacy Posture Analyzer",
-    description: "Analyse des permissions, trackers et donnees exposees pour estimer la posture de confidentialite.",
+    description: "Analyse des permissions, trackers et données exposées pour estimer la posture de confidentialité.",
     tags: ["Privacy", "Trackers", "Permissions"]
   }),
   buildTeam({
@@ -107,7 +107,7 @@ export const projects = [
     demoLink: "https://vulnlab-portfolio-mobile.vercel.app/",
     reportFile: "team6.pdf",
     title: "Vulnerable-by-Design Training App Generator",
-    description: "Generateur d'applications d'entrainement volontairement vulnerables pour l'apprentissage securite.",
+    description: "Générateur d'applications d'entraînement volontairement vulnérables pour l'apprentissage sécurité.",
     tags: ["Training", "Vulnerable App", "Education"]
   }),
   buildTeam({
@@ -118,7 +118,7 @@ export const projects = [
     demoLink: "https://tls-posture-analyzer.netlify.app/",
     reportFile: "team7.pdf",
     title: "Network/TLS Posture Analyzer",
-    description: "Audit defensif du transport reseau et de la configuration TLS pour identifier les faiblesses.",
+    description: "Audit défensif du transport réseau et de la configuration TLS pour identifier les faiblesses.",
     tags: ["Network", "TLS", "Transport"]
   }),
   buildTeam({
@@ -129,7 +129,7 @@ export const projects = [
     demoLink: "https://evidence-collector-kappa.vercel.app/",
     reportFile: "team8.pdf",
     title: "Evidence Collector & Compliance Pack",
-    description: "Collecte de preuves et generation d'un pack de conformite pour les activites de verification.",
+    description: "Collecte de preuves et génération d'un pack de conformité pour les activités de vérification.",
     tags: ["Evidence", "Compliance", "Audit"]
   }),
   buildTeam({
@@ -140,7 +140,7 @@ export const projects = [
     demoLink: "https://secure-hunter.netlify.app/",
     reportFile: "team9.pdf",
     title: "SecretHunter Android",
-    description: "Detection de secrets, tokens et endpoints sensibles dans les projets Android.",
+    description: "Détection de secrets, tokens et endpoints sensibles dans les projets Android.",
     tags: ["Secrets", "Android", "Detection"]
   }),
   buildTeam({
@@ -151,7 +151,7 @@ export const projects = [
     demoLink: "https://v0-attack-surface-mapper-chi.vercel.app/",
     reportFile: "team10.pdf",
     title: "Attack Surface Mapper",
-    description: "Cartographie des composants exportes et visualisation de la surface d'attaque via un graphe.",
+    description: "Cartographie des composants exportés et visualisation de la surface d'attaque via un graphe.",
     tags: ["Attack Surface", "Graph", "Components"]
   }),
   buildTeam({
@@ -162,7 +162,7 @@ export const projects = [
     demoLink: "https://android-behavior-analysis.vercel.app",
     reportFile: "team11.pdf",
     title: "Dynamic Behavior Profiler",
-    description: "Profilage runtime et detection d'anomalies pour observer le comportement dynamique des applications.",
+    description: "Profilage runtime et détection d'anomalies pour observer le comportement dynamique des applications.",
     tags: ["Runtime", "Behavior", "Anomaly Detection"]
   }),
   buildTeam({
@@ -173,7 +173,7 @@ export const projects = [
     demoLink: "https://api-abuuse-detector.netlify.app/",
     reportFile: "team12.pdf",
     title: "Mobile API Misuse Detector",
-    description: "Detection d'usages non conformes ou abusifs des API dans les applications mobiles.",
+    description: "Détection d'usages non conformes ou abusifs des API dans les applications mobiles.",
     tags: ["API", "Misuse", "Mobile"]
   }),
   buildTeam({
@@ -184,7 +184,7 @@ export const projects = [
     demoLink: "https://vaultdex-web.vercel.app/",
     reportFile: "team13.pdf",
     title: "Secure Storage Inspector",
-    description: "Inspection de SharedPrefs, Room, fichiers et cache pour evaluer la securite du stockage local.",
+    description: "Inspection de SharedPrefs, Room, fichiers et cache pour évaluer la sécurité du stockage local.",
     tags: ["Storage", "Android", "Inspector"]
   }),
   buildTeam({
@@ -195,7 +195,7 @@ export const projects = [
     demoLink: "https://mobile-sec-analyser.vercel.app/",
     reportFile: "team14.pdf",
     title: "Auth & Session Security Analyzer",
-    description: "Analyse des tokens, du refresh et des mecanismes de logout pour verifier la securite de session.",
+    description: "Analyse des tokens, du refresh et des mécanismes de logout pour vérifier la sécurité de session.",
     tags: ["Auth", "Session", "Tokens"]
   }),
   buildTeam({
@@ -206,7 +206,7 @@ export const projects = [
     demoLink: "https://cryptolintai.vercel.app/",
     reportFile: "team15.pdf",
     title: "CryptoLint AI",
-    description: "Detection des mauvais usages cryptographiques avec suggestions de correctifs actionnables.",
+    description: "Détection des mauvais usages cryptographiques avec suggestions de correctifs actionnables.",
     tags: ["Crypto", "Lint", "Remediation"]
   }),
   buildTeam({
@@ -217,7 +217,7 @@ export const projects = [
     demoLink: "https://landing-page-zeta-snowy-28.vercel.app/",
     reportFile: "team16.pdf",
     title: "Device Integrity Risk Scorer",
-    description: "Scoring du risque d'integrite de l'appareil via des indices root, debug et hooking.",
+    description: "Scoring du risque d'intégrité de l'appareil via des indices root, debug et hooking.",
     tags: ["Integrity", "Root", "Hooking"]
   }),
   buildTeam({
@@ -228,7 +228,7 @@ export const projects = [
     demoLink: "https://willowy-genie-13ad09.netlify.app/",
     reportFile: "team17.pdf",
     title: "Security Regression Test Generator",
-    description: "Generation automatique de tests de regression pour fiabiliser les controles de securite.",
+    description: "Génération automatique de tests de régression pour fiabiliser les contrôles de sécurité.",
     tags: ["Regression", "Testing", "Automation"]
   }),
   buildTeam({
