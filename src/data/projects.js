@@ -71,7 +71,7 @@ export const projects = [
     teamName: "Team 3",
     members: ["Mounir MERGHICH", "Malak BELKHO", "Hiba LAZZOUZI", "Yousra ZARRI"],
     youtubeLink: "https://www.youtube.com/watch?v=LsRnU-lzt7c",
-    demoLink: "https://classy-longma-65f973.netlify.app",
+    demoLink: "https://v0-mobauditflow-landing-page.vercel.app/",
     reportFile: "team3.pdf",
     title: "MASVS/MASTG Audit Copilot",
     description: "Génération automatique de rapport d'audit mobile avec scoring inspiré de MASVS et MASTG.",
